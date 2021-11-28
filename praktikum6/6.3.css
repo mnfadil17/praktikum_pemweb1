@@ -34,19 +34,19 @@ body, html{
     justify-content: space-around;
 }
 header{  
-    background-color: blue;
+    background-color: aquamarine;
     width: 95.5%;
     height: 100px;
 }
 
 aside{
-    background-color: aqua;
+    background-color: rgb(51, 194, 199);
     width: 20%;
     height: 400px;
 }
 
 article{
-    background-color: aquamarine;
+    background-color: palevioletred;
     width: 80%;
     height: 400px;
     display: flex;
@@ -55,7 +55,7 @@ article{
 }
 
 footer{
-    background-color: blue;
+    background-color: aquamarine;
     width: 95.5%;
     height: 100px;
 }
